@@ -1,0 +1,200 @@
+[
+  {
+    "timeStamp": 3032.19,
+    "cpu_user": 2,
+    "cpu_system": 3,
+    "mem_free": 6001
+  },
+  {
+    "timeStamp": 3033.19,
+    "cpu_user": 0,
+    "cpu_system": 0,
+    "mem_free": 5995
+  },
+  {
+    "timeStamp": 3034.19,
+    "cpu_user": 0,
+    "cpu_system": 0,
+    "mem_free": 6091
+  },
+  {
+    "timeStamp": 3035.19,
+    "cpu_user": 0,
+    "cpu_system": 0,
+    "mem_free": 6091
+  },
+  {
+    "timeStamp": 3036.19,
+    "cpu_user": 1,
+    "cpu_system": 1,
+    "mem_free": 6024
+  },
+  {
+    "timeStamp": 3037.19,
+    "cpu_user": 2,
+    "cpu_system": 2,
+    "mem_free": 6091
+  },
+  {
+    "timeStamp": 3038.19,
+    "cpu_user": 2,
+    "cpu_system": 4,
+    "mem_free": 5990
+  },
+  {
+    "timeStamp": 3039.19,
+    "cpu_user": 0,
+    "cpu_system": 1,
+    "mem_free": 6091
+  },
+  {
+    "timeStamp": 3040.19,
+    "cpu_user": 0,
+    "cpu_system": 0,
+    "mem_free": 6091
+  },
+  {
+    "timeStamp": 3041.19,
+    "cpu_user": 0,
+    "cpu_system": 0,
+    "mem_free": 6091
+  },
+  {
+    "timeStamp": 3042.19,
+    "cpu_user": 2,
+    "cpu_system": 9,
+    "mem_free": 5471
+  },
+  {
+    "timeStamp": 3043.19,
+    "cpu_user": 1,
+    "cpu_system": 14,
+    "mem_free": 5007
+  },
+  {
+    "timeStamp": 3044.19,
+    "cpu_user": 1,
+    "cpu_system": 11,
+    "mem_free": 4586
+  },
+  {
+    "timeStamp": 3045.19,
+    "cpu_user": 1,
+    "cpu_system": 10,
+    "mem_free": 4248
+  },
+  {
+    "timeStamp": 3046.19,
+    "cpu_user": 1,
+    "cpu_system": 8,
+    "mem_free": 4013
+  },
+  {
+    "timeStamp": 3047.19,
+    "cpu_user": 0,
+    "cpu_system": 7,
+    "mem_free": 3795
+  },
+  {
+    "timeStamp": 3048.19,
+    "cpu_user": 1,
+    "cpu_system": 7,
+    "mem_free": 3575
+  },
+  {
+    "timeStamp": 3049.19,
+    "cpu_user": 1,
+    "cpu_system": 7,
+    "mem_free": 3375
+  },
+  {
+    "timeStamp": 3050.19,
+    "cpu_user": 70,
+    "cpu_system": 21,
+    "mem_free": 1579
+  },
+  {
+    "timeStamp": 3051.19,
+    "cpu_user": 75,
+    "cpu_system": 25,
+    "mem_free": 1702
+  },
+  {
+    "timeStamp": 3052.19,
+    "cpu_user": 77,
+    "cpu_system": 23,
+    "mem_free": 2084
+  },
+  {
+    "timeStamp": 3053.19,
+    "cpu_user": 6,
+    "cpu_system": 11,
+    "mem_free": 2672
+  },
+  {
+    "timeStamp": 3054.19,
+    "cpu_user": 1,
+    "cpu_system": 7,
+    "mem_free": 2458
+  },
+  {
+    "timeStamp": 3055.19,
+    "cpu_user": 1,
+    "cpu_system": 6,
+    "mem_free": 2241
+  },
+  {
+    "timeStamp": 3056.19,
+    "cpu_user": 23,
+    "cpu_system": 15,
+    "mem_free": 1372
+  },
+  {
+    "timeStamp": 3057.19,
+    "cpu_user": 73,
+    "cpu_system": 27,
+    "mem_free": 656
+  },
+  {
+    "timeStamp": 3058.19,
+    "cpu_user": 73,
+    "cpu_system": 27,
+    "mem_free": 623
+  },
+  {
+    "timeStamp": 3059.19,
+    "cpu_user": 53,
+    "cpu_system": 20,
+    "mem_free": 1612
+  },
+  {
+    "timeStamp": 3060.19,
+    "cpu_user": 1,
+    "cpu_system": 8,
+    "mem_free": 1365
+  },
+  {
+    "timeStamp": 3061.19,
+    "cpu_user": 1,
+    "cpu_system": 7,
+    "mem_free": 1279
+  },
+  {
+    "timeStamp": 3062.19,
+    "cpu_user": 1,
+    "cpu_system": 10,
+    "mem_free": 1212
+  },
+  {
+    "timeStamp": 3063.19,
+    "cpu_user": 1,
+    "cpu_system": 8,
+    "mem_free": 1217
+  },
+  {
+    "timeStamp": 3063.63,
+    "cpu_user": 0,
+    "cpu_system": 2,
+    "mem_free": 1214
+  }
+]
